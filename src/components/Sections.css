@@ -403,6 +403,12 @@
 }
 
 .contact-icon { font-size: 1.6rem; }
+.contact-icon-img {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  margin-right: 0.5rem;
+}
 
 .contact-label-text {
   font-size: 0.68rem;
